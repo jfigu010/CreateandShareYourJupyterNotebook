@@ -1,4 +1,6 @@
 # CreateandShareYourJupyterNotebook
+Exercise 12 - Share your notebook through GitHub
+
 Assignment IBM Data Science
 
 Estimated Time: 30 mins
